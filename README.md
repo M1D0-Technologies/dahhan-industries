@@ -1,57 +1,21 @@
-<div align="center">
-  <img src="./assets/banner.svg" alt="Dahhan Industries — Industrial textile manufacturing, OEM, private-label & wholesale supply" width="100%" />
-</div>
+<a href="https://www.dahhanindustries.com"><picture><source media="(max-width: 640px)" srcset="./assets/banner-mobile.svg" /><img src="./assets/banner.svg" alt="Dahhan Industries. Fabrics, Lace, Elastics &amp; Textile Accessories | Manufacturing, International Trade &amp; B2B Wholesale" width="100%" /></picture></a>
 
-<p align="center">
-  <a href="https://www.dahhanindustries.com"><img alt="Live" src="https://img.shields.io/badge/live-dahhanindustries.com-e08a3c?style=flat-square" /></a>
-  <img alt="Status" src="https://img.shields.io/badge/status-launching%20soon-f0b429?style=flat-square" />
-  <img alt="Type" src="https://img.shields.io/badge/type-B2B%20manufacturing-f2a95a?style=flat-square" />
-</p>
+<p align="center"><sub><a href="https://github.com/M1D0-Technologies/dahhan-enterprises">Dahhan Enterprises</a> · <b>Dahhan Industries</b> · <a href="https://github.com/M1D0-Technologies/miss-dantella">Miss Dantella</a> · <a href="https://github.com/M1D0-Technologies/m1d0-technologies">M1D0 Technologies</a> · <a href="https://github.com/M1D0-Technologies/platform-engineering">Platform Engineering</a> · <a href="https://github.com/M1D0-Technologies">Organization</a></sub></p>
 
 # Dahhan Industries
 
-> **Industrial textile manufacturing, OEM, private‑label and wholesale supply — for B2B buyers.**
+Dahhan Industries specializes in fabrics, lace, elastics and textile accessories, supplying apparel manufacturers, lingerie producers and wholesale buyers. Rooted in the Dahhan business established in 1990, the company has particular expertise in materials for lingerie and women's underwear, while serving a broader range of textile and apparel applications.
 
-Dahhan Industries is the industrial textile manufacturing, OEM, private‑label, and wholesale‑supply company within the Dahhan business ecosystem. It serves B2B buyers, procurement teams, OEM and private‑label brands, distributors, and trade partners as a **capability‑first manufacturer and wholesaler**.
+Its capabilities span textile manufacturing, sourcing, international trade and B2B wholesale. Combining product expertise with manufacturing and supply coordination, Dahhan Industries supports the material requirements of apparel producers and commercial partners.
 
-The site exists to establish Industries as a credible, export‑ready manufacturer and to route qualified enquiries to the right team. It is not a fashion brand, a direct‑to‑consumer store, or a storefront.
+Within the wider Dahhan business represented internationally by Dahhan Enterprises, Dahhan Industries also supplies materials used in Miss Dantella's lingerie and nightwear collections. This relationship connects textile supply with finished-apparel production, while each business maintains its own specialization, market focus and commercial identity.
 
-## Who we serve
+## At a glance
 
-- Wholesale buyers, distributors and trade partners
-- OEM and private‑label brands
-- Procurement and supply‑chain teams
-
-## How we work
-
-A clear, standard production flow — from first enquiry to shipment:
-
-**Inquiry & specification → Sampling → Bulk production → Quality control → Shipment**
-
-MOQ, lead times, Incoterms and payment terms are confirmed per inquiry and shared on request. Capability, specification, and compliance details are published as they are verified — we show what is current and provable, and never pad the record.
-
-## Tech stack
-
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js" />
-  <img alt="React" src="https://img.shields.io/badge/React-19-149eca?style=flat-square&logo=react" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-12-0055ff?style=flat-square&logo=framer&logoColor=white" />
-  <img alt="Directus" src="https://img.shields.io/badge/Directus-CMS-6644ff?style=flat-square&logo=directus&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-Tunnel-f38020?style=flat-square&logo=cloudflare&logoColor=white" />
-</p>
-
-Next.js 16 (App Router, RSC) · React 19 · TypeScript 6 · Tailwind CSS v4 · Framer Motion · Directus CMS · multilingual (EN / TR / AR, RTL) · accessibility-tested (Playwright + axe) · self-hosted behind Caddy + Cloudflare. Industrial, factual, spec-first design.
+<picture><source media="(max-width: 640px)" srcset="./assets/glance-mobile.svg" /><img src="./assets/glance.svg" alt="Dahhan Industries: industry Wholesale, founded 1990, dahhanindustries.com. Specialties: Fabrics, Lace, Elastics, Textile Accessories, Lingerie Materials, Lingerie Components, Intimate Apparel Materials, Apparel Textiles, Textile Manufacturing, Textile Sourcing, Manufacturing Coordination, International Trade, Import and Export, B2B Wholesale, Textile Wholesale." width="100%" /></picture>
 
 ## Links
 
-- 🌐 **Live:** [www.dahhanindustries.com](https://www.dahhanindustries.com) &nbsp;·&nbsp; 🟡 *Launching soon*
-- 🏛️ **Group on GitHub:** [M1D0-Technologies](https://github.com/M1D0-Technologies)
-- 🧵 **Group parent:** [Dahhan Enterprises](https://github.com/M1D0-Technologies/dahhan-enterprises)
-- ✉️ **Enquiries:** info@dahhanindustries.com
+<p align="center"><a href="https://www.dahhanindustries.com"><picture><source media="(max-width: 640px)" srcset="./assets/tiles/web-mob.svg" /><img src="./assets/tiles/web-desk.svg" alt="Website: dahhanindustries.com" width="50%" /></picture></a><a href="https://www.linkedin.com/company/dahhan-industries/"><picture><source media="(max-width: 640px)" srcset="./assets/tiles/li-mob.svg" /><img src="./assets/tiles/li-desk.svg" alt="LinkedIn: /company/dahhan-industries" width="50%" /></picture></a></p>
 
----
-
-<sub>An operating brand of the **Dahhan Enterprises** group · built and operated by **M1D0 Technologies**. Documentation-only showcase — product source is private. © 2026 Dahhan Enterprises LLC — M1D0 Technologies, Dahhan Industries, Miss Dantella and affiliated brands. All rights reserved.</sub>
+<sub>Documentation and showcase material only; product source code is kept private.<br />© 2026 Dahhan Enterprises LLC. All rights reserved.</sub>
